@@ -14,7 +14,7 @@ Here are some repositories to which I've made significant contributions
 - [JuliaStats/KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl): kernel density estimation.
 - [JuliaInterop/RCall.jl](https://github.com/JuliaInterop/RCall.jl): for calling [R](https://www.r-project.org/) from Julia
 - [JuliaInterop/MathLink.jl](https://github.com/JuliaInterop/MathLink.jl): for calling [Mathematica](https://www.wolfram.com/mathematica/)/[Wolfram Engine](https://www.wolfram.com/engine/) from Julia
-- [JuliaCI](https://github.com/JuliaCI/BuildkiteUtils.jl): a collection of utilities for running Julia on [Buildkite](https://buildkite.com/).
+- [JuliaCI/BuildkiteUtils.jl](https://github.com/JuliaCI/BuildkiteUtils.jl): a collection of utilities for running Julia on [Buildkite](https://buildkite.com/).
 - [JuliaLinearAlgebra/GenericLinearAlgebra.jl](https://github.com/JuliaLinearAlgebra/GenericLinearAlgebra.jl): linear algebra on generic numeric types. I implemented the [singular value decomposition (SVD)](https://en.wikipedia.org/wiki/Singular_value_decomposition) which works with both high-precision types (e.g. `BigFloat`s), and even non-real types like quaternions.
 - [JuliaComputing/Miletus.jl](https://github.com/JuliaComputing/Miletus.jl): a financial contract modeling language and pricing engine. Can be used to express complicated financial contracts, and compute their prices computed via exact analytic, Monte Carlo, or lattice-based (binomial tree) methods.
 - [JuliaBerry/SenseHat.jl](https://github.com/JuliaBerry/SenseHat.jl): library for interacting with the Raspberry Pi [Sense HAT](https://www.raspberrypi.com/products/sense-hat/).
