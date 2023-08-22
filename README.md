@@ -3,11 +3,11 @@
 Here are some repositories to which I've made significant contributions
 
 - [JuliaLang/julia](https://github.com/JuliaLang/julia/): [Julia programming language](https://julialang.org/). I've been a contributor since 2012, most of my contributions tend to focus on numerical aspects.
-- [CliMA/ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl): a framework for constructing spatial discretizations for Earth system models (ESMs).
+- [CliMA/ClimaCore.jl](https://github.com/CliMA/ClimaCore.jl): a framework for constructing spatial discretizations for Earth system models (ESMs), supporting distributed parallelism and GPUs.
 - [CliMA/GilbertCurves.jl](https://github.com/CliMA/GilbertCurves.jl): generalized Hilbert space-filling curves.
-- [CliMA/slurm-buildkite](https://github.com/CliMA/slurm-buildkite): use [Buildkite](https://buildkite.com/) on a [Slurm](https://slurm.schedmd.com/) cluster.
-- [JuliaGPU/NVTX.jl](https://github.com/JuliaGPU/NVTX.jl): Julia interface for Nvidia's NVTX instrumentation library, for use with Nsight Systems profiler.
-- [JuliaParallel/MPI.jl](https://github.com/JuliaParallel/MPI.jl): Julia interface for the [Message Passing Interface (MPI)](https://www.mpi-forum.org/) for distributed parallel computing.
+- [CliMA/slurm-buildkite](https://github.com/CliMA/slurm-buildkite): a setup for running [Buildkite](https://buildkite.com/) on a [Slurm](https://slurm.schedmd.com/) cluster.
+- [JuliaGPU/NVTX.jl](https://github.com/JuliaGPU/NVTX.jl): Julia interface for Nvidia's NVTX instrumentation library, for use with [Nvidia's Nsight Systems profiler](https://developer.nvidia.com/nsight-systems).
+- [JuliaParallel/MPI.jl](https://github.com/JuliaParallel/MPI.jl): Julia interface for the [Message Passing Interface (MPI)](https://www.mpi-forum.org/) for distributed parallel computing. I've been the primary maintainer for the past few years.
 - [JuliaIO/HDF5.jl](https://github.com/JuliaIO/HDF5.jl): Julia interface for reading and writing HDF5 files. I've been helping to refactor and add features such as MPI and virtual dataset support.
 - [JuliaMath/Quadmath.jl](https://github.com/JuliaMath/Quadmath.jl): interface to libquadmath, providing IEEE754 binary128 floating point format.
 - [JuliaStats/Distributions.jl](https://github.com/JuliaStats/Distributions.jl): library of probability distributions and associated functions.
